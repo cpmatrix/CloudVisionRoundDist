@@ -1,1 +1,1 @@
-java -jar CloudVisionRound-1.0.1.jar
+java -jar C:\Users\admin\Desktop\CloudVisionRoundDist\CloudVisionRound-1.0.1.jar
